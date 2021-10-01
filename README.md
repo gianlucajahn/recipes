@@ -1,7 +1,5 @@
-# recipes
-A simple html website showcasing recipes and basic html functions!
-
 ## HTML Recipe Website
+A simple html website showcasing recipes and basic html functions!
 
 The idea for this project came from [The Odin Project](https://www.theodinproject.com).
 Even though it was just a basic project idea that thousands of programmers would and do come up with, I
