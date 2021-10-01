@@ -13,5 +13,5 @@ later point in time, be it for me or someone else.
 
 *Needless to say*, projects like these are *probably* not the kind of projects you will edit/alter or
 even use at any point in time in the future, but it shows and represents how I work and how I organize
-my work environment to possible future employees and/or collaborators, **which is why I keep it up in
+my work environment to possible future employers and/or collaborators, **which is why I keep it up in
 all my projects.**
