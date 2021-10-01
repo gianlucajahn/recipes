@@ -1,6 +1,8 @@
 ## HTML Recipe Website
 A simple html website showcasing recipes and basic html functions!
 
+![Repository Banner](https://gianlucajahn.github.io/recipes/img/recipe_banner.png)
+
 The idea for this project came from [The Odin Project](https://www.theodinproject.com).
 Even though it was just a basic project idea that thousands of programmers would and do come up with, I
 liked it for **giving me the possibility to further solidify my learnings by constant repetition within coding.**
